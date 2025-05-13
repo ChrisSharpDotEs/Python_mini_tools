@@ -13,4 +13,4 @@ def csv_to_json(csv_file_path, json_file_path):
 
 csv_file_path = "data.csv"
 json_file_path = "data.json"
-csv_a_json(csv_file_path, json_file_path)
+csv_to_json(csv_file_path, json_file_path)
